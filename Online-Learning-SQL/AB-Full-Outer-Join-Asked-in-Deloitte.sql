@@ -1,3 +1,5 @@
+/* find the CHANGE in employee status*/
+
 SELECT * FROM emp_2020;
 SELECT * FROM emp_2021;
 
